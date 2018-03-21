@@ -1,0 +1,2 @@
+# CrossDomain
+一个解决vue请求thinkphp接口post出现错误
